@@ -1,0 +1,54 @@
+NAME:D CHINMAYEE
+
+COMPANY: Skillcraft technology
+
+ID: SCT/NOV24/5437
+
+DOMAIN: SOFTWARE DEVELOPMENT
+
+DURATION:4 WEEKS
+
+OVERVIEW OF THE PROJECT
+Temperature Conversion Menu:
+1. Celsius to Fahrenheit
+2. Celsius to Kelvin
+3. Fahrenheit to Celsius
+4. Fahrenheit to Kelvin
+5. Kelvin to Celsius
+6. Kelvin to Fahrenheit
+7. Exit
+Enter your choice (1-7): 4
+Enter the temperature in Fahrenheit: 20
+20.0°F is 266.4833333333333K
+Temperature Conversion Menu:
+1. Celsius to Fahrenheit
+2. Celsius to Kelvin
+3. Fahrenheit to Celsius
+4. Fahrenheit to Kelvin
+5. Kelvin to Celsius
+6. Kelvin to Fahrenheit
+7. Exit
+
+PROJECT: create a program that converts temperatures between Celsius, Fahrenheit, and Kelvin scales.
+
+Objectives
+
+Accurate Conversions:
+
+Ensure precise conversions between Celsius, Fahrenheit, and Kelvin.
+
+User-Friendly:
+
+Design an intuitive interface for easy temperature input and selection.
+
+Efficiency:
+
+Perform quick and efficient conversions for instant results.
+
+Comprehensive:
+
+Support conversions in all directions among the three scales.
+
+Educational Value:
+
+Enhance users' understanding of different temperature scales.
